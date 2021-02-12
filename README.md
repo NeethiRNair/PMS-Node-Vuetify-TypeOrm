@@ -7,3 +7,5 @@ Back End: Nodejs with TypeOrm
 Install Node modules for Node and Vuetify using 
   
   npm install
+
+Database dump file also included as pmsDb.sql
